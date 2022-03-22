@@ -1,0 +1,2 @@
+# Sales-_analyses-
+This project is based on real life data of one hardware company of India whose sales has been declining rapidly . So based on the data the analyses has been done to find the egions with less sales , top 5 contributors , yearly and monthly sales graph . This analyses has been done using two major tools Very first is MYSQL in which data has been imported and then analyses has been done accordingly and another one is Tableau where the dashboard has been created to visualize the outputs .
